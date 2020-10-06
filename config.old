@@ -1,0 +1,4 @@
+baseurl = "http://www.example.com"
+title = "Tim Jones"
+theme = "ananke"
+languagecode = "en"
