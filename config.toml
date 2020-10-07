@@ -1,7 +1,8 @@
 title = "Tim Jones Blog"
-baseURL = "https://example.com"
+baseURL = "https://timjones1.github.io"
 languageCode = "en-uk"
 theme = "ananke"
+publishDir = "docs"
 
 
 DefaultContentLanguage = "en"

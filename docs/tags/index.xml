@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tim Jones Blog</title>
+    <link>https://timjones1.github.io/tags/</link>
+    <description>Recent content in Tags on Tim Jones Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 01 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://timjones1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andrew Ng</title>
+      <link>https://timjones1.github.io/tags/andrew-ng/</link>
+      <pubDate>Thu, 01 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://timjones1.github.io/tags/andrew-ng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coursera</title>
+      <link>https://timjones1.github.io/tags/coursera/</link>
+      <pubDate>Thu, 01 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://timjones1.github.io/tags/coursera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://timjones1.github.io/tags/courses/</link>
+      <pubDate>Thu, 01 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://timjones1.github.io/tags/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scene</title>
+      <link>https://timjones1.github.io/tags/scene/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://timjones1.github.io/tags/scene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
