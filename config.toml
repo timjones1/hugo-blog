@@ -10,6 +10,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+publishDir = ".."
 
 [sitemap]
   changefreq = "monthly"
@@ -19,7 +20,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "The last theme you'll ever need."
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
