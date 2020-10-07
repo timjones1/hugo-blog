@@ -2,7 +2,6 @@ title = "Tim Jones Blog"
 baseURL = "https://timjones1.github.io"
 languageCode = "en-uk"
 theme = "ananke"
-publishDir = "docs"
 
 
 DefaultContentLanguage = "en"
@@ -10,7 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-publishDir = ".."
+publishDir = "docs"
 
 [sitemap]
   changefreq = "monthly"
