@@ -3,117 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://timjones1.github.io/post/archive/chapter-1/</loc>
+    <loc>https://timjones1.github.io/docs/tags/coursera/</loc>
+    <lastmod>2020-10-08T22:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timjones1.github.io/docs/tags/courses/</loc>
+    <lastmod>2020-10-08T22:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timjones1.github.io/docs/tags/data-science/</loc>
+    <lastmod>2020-10-08T22:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timjones1.github.io/docs/post/data-science-john-hopkins/</loc>
+    <lastmod>2020-10-08T22:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timjones1.github.io/docs/tags/r/</loc>
+    <lastmod>2020-10-08T22:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timjones1.github.io/docs/tags/</loc>
+    <lastmod>2020-10-08T22:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timjones1.github.io/docs/</loc>
+    <lastmod>2020-10-08T22:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://timjones1.github.io/docs/post/machine-learning-andrew-ng/</loc>
     <lastmod>2020-10-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://timjones1.github.io/post/machine-learning-andrew-ng/</loc>
+    <loc>https://timjones1.github.io/docs/projects/rowing-classifier/</loc>
     <lastmod>2020-10-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://timjones1.github.io/tags/andrew-ng/</loc>
+    <loc>https://timjones1.github.io/docs/tags/andrew-ng/</loc>
     <lastmod>2020-10-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://timjones1.github.io/tags/coursera/</loc>
+    <loc>https://timjones1.github.io/docs/projects/</loc>
     <lastmod>2020-10-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://timjones1.github.io/tags/courses/</loc>
-    <lastmod>2020-10-01T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timjones1.github.io/tags/</loc>
-    <lastmod>2020-10-01T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timjones1.github.io/</loc>
-    <lastmod>2020-10-01T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timjones1.github.io/post/archive/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timjones1.github.io/post/archive/chapter-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timjones1.github.io/post/archive/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timjones1.github.io/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timjones1.github.io/post/archive/chapter-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timjones1.github.io/post/archive/chapter-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://timjones1.github.io/post/</loc>
+    <loc>https://timjones1.github.io/docs/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://timjones1.github.io/about/</loc>
+    <loc>https://timjones1.github.io/docs/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://timjones1.github.io/categories/</loc>
+    <loc>https://timjones1.github.io/docs/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://timjones1.github.io/contact/</loc>
+    <loc>https://timjones1.github.io/docs/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

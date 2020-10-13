@@ -1,4 +1,10 @@
-
+---
+date: 2020-10-01T10:58:08-04:00
+description: " "
+featured_image: "/images/coursera_ng_ml2.jpg"
+tags: ["Andrew Ng","Coursera","Courses"]
+title: "  Machine Learning with Andrew Ng"
+---
 i have wnated to delpoy my own deep learning image classification model for some time and the new fasti.ai course gets straight into the nitty gritty in lesson 2 of the deep learning for coders course. You can adapt the code in the fast book notebooks and get a model up and running quickly and easily, in my case that model just wasnt very good initially:
 
  - rowing images are not well classified on bing, alot of incorrectly classified images and drawings / pictures of empty boats that were bringin down the accuracy scores. 
