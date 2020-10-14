@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses on Tim Jones Blog</title>
-    <link>https://timjones1.github.io/docs/tags/courses/</link>
+    <link>https://timjones1.github.io/tags/courses/</link>
     <description>Recent content in Courses on Tim Jones Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 08 Oct 2020 22:58:08 -0400</lastBuildDate><atom:link href="https://timjones1.github.io/docs/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Oct 2020 22:58:08 -0400</lastBuildDate><atom:link href="https://timjones1.github.io/tags/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JHU Data Science Specialization</title>
-      <link>https://timjones1.github.io/docs/post/data-science-john-hopkins/</link>
+      <link>https://timjones1.github.io/post/data-science-john-hopkins/</link>
       <pubDate>Thu, 08 Oct 2020 22:58:08 -0400</pubDate>
       
-      <guid>https://timjones1.github.io/docs/post/data-science-john-hopkins/</guid>
+      <guid>https://timjones1.github.io/post/data-science-john-hopkins/</guid>
       <description>I was keen to continue learning after the Machine Learning course by Andrew Ng and Coursera was working for me on my long commutes to and from work, so I decided to move on to the Data Science specialization from John Hopkins University. I did deliberate for a while about whether to learn R or python at this point but was swayed by some positive feedback on this specialization and R generally from some former students I came into contact with, and the promise of learning the complete data science pipeline including use of Git Hub, data wrangling and visualization as well as the more glamorous machine learning modules.</description>
     </item>
     
     <item>
       <title>  Machine Learning with Andrew Ng</title>
-      <link>https://timjones1.github.io/docs/post/machine-learning-andrew-ng/</link>
+      <link>https://timjones1.github.io/post/machine-learning-andrew-ng/</link>
       <pubDate>Thu, 01 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://timjones1.github.io/docs/post/machine-learning-andrew-ng/</guid>
+      <guid>https://timjones1.github.io/post/machine-learning-andrew-ng/</guid>
       <description>This course on Coursera was my first introduction to Machine Learning way back in 2016, Andrew Ng is an inspirational teacher and his now famous course covers the basics of machine learning using Octave or Matlab. I chose to complete the course in Matlab but Andrew really teaches the foundations of machine learning with this course and the tools used are less important than the ideas put forward of which there are many, Andrew strives to give the student an &amp;ldquo;intuition&amp;rdquo; of how the main machine learning algorithms work.</description>
     </item>
     
     <item>
       <title>  Machine Learning with Andrew Ng</title>
-      <link>https://timjones1.github.io/docs/projects/rowing-classifier/</link>
+      <link>https://timjones1.github.io/projects/rowing-classifier/</link>
       <pubDate>Thu, 01 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://timjones1.github.io/docs/projects/rowing-classifier/</guid>
+      <guid>https://timjones1.github.io/projects/rowing-classifier/</guid>
       <description>i have wnated to delpoy my own deep learning image classification model for some time and the new fasti.ai course gets straight into the nitty gritty in lesson 2 of the deep learning for coders course. You can adapt the code in the fast book notebooks and get a model up and running quickly and easily, in my case that model just wasnt very good initially:
   rowing images are not well classified on bing, alot of incorrectly classified images and drawings / pictures of empty boats that were bringin down the accuracy scores.</description>
     </item>

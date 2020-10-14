@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Tim Jones Blog</title>
-    <link>https://timjones1.github.io/docs/tags/r/</link>
+    <link>https://timjones1.github.io/tags/r/</link>
     <description>Recent content in R on Tim Jones Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 08 Oct 2020 22:58:08 -0400</lastBuildDate><atom:link href="https://timjones1.github.io/docs/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Oct 2020 22:58:08 -0400</lastBuildDate><atom:link href="https://timjones1.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JHU Data Science Specialization</title>
-      <link>https://timjones1.github.io/docs/post/data-science-john-hopkins/</link>
+      <link>https://timjones1.github.io/post/data-science-john-hopkins/</link>
       <pubDate>Thu, 08 Oct 2020 22:58:08 -0400</pubDate>
       
-      <guid>https://timjones1.github.io/docs/post/data-science-john-hopkins/</guid>
+      <guid>https://timjones1.github.io/post/data-science-john-hopkins/</guid>
       <description>I was keen to continue learning after the Machine Learning course by Andrew Ng and Coursera was working for me on my long commutes to and from work, so I decided to move on to the Data Science specialization from John Hopkins University. I did deliberate for a while about whether to learn R or python at this point but was swayed by some positive feedback on this specialization and R generally from some former students I came into contact with, and the promise of learning the complete data science pipeline including use of Git Hub, data wrangling and visualization as well as the more glamorous machine learning modules.</description>
     </item>
     

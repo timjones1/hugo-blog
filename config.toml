@@ -1,5 +1,5 @@
 title = "Tim Jones Blog"
-baseURL = "https://timjones1.github.io/docs"
+baseURL = "https://timjones1.github.io/"
 languageCode = "en-uk"
 theme = "ananke"
 
