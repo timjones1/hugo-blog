@@ -8,12 +8,22 @@
     <language>en-uk</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://timjones1.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>  Rowing Classifier with fast.ai</title>
+      <link>https://timjones1.github.io/post/rowing-classifier/</link>
+      <pubDate>Sat, 10 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://timjones1.github.io/post/rowing-classifier/</guid>
+      <description>I have wanted to create and deploy a toy deep learning image classification model for a while and fasti.ai gets straight into the nitty gritty in lesson 2 of their deep learning for coders course. You can adapt the code in the fast book notebooks and get a model up and running quickly and easily. I decided to create a rowing boat classifier, as it is my first DL model I kept the classification relatively simple, classifying single sculls(one person in the boat with two blades) from quads (four people rowing, each with two blades)</description>
+    </item>
+    
+    <item>
       <title>JHU Data Science Specialization</title>
       <link>https://timjones1.github.io/post/data-science-john-hopkins/</link>
       <pubDate>Thu, 08 Oct 2020 22:58:08 -0400</pubDate>
       
       <guid>https://timjones1.github.io/post/data-science-john-hopkins/</guid>
-      <description>I was keen to continue learning after the Machine Learning course by Andrew Ng and Coursera was working for me on my long commutes to and from work, so I decided to move on to the Data Science specialization from John Hopkins University. I did deliberate for a while about whether to learn R or python at this point but was swayed by some positive feedback on this specialization and R generally from some former students I came into contact with, and the promise of learning the complete data science pipeline including use of Git Hub, data wrangling and visualization as well as the more glamorous machine learning modules.</description>
+      <description>I was keen to continue learning after my introduction to ML with Andrew Ng, I liked the Coursera format and so I decided to move on to the Data Science specialization from John Hopkins University.
+I had deliberated about whether to learn R or python at this point but was swayed by some positive feedback on this specialization and R generally from some friends, and by the prospect of learning about data science pipelines, Git Hub, data wrangling and visualization as well as the more glamorous machine learning modules.</description>
     </item>
     
     <item>

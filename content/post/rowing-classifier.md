@@ -1,5 +1,5 @@
 ---
-date: 2020-10-01T10:58:08-04:00
+date: 2020-10-10T10:58:08-04:00
 description: " "
 featured_image: "images/sculler-rowing-unsplash.jpg"
 tags: ["fast.ai","deep learning","Projects"]

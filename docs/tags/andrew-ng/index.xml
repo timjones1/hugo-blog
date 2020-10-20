@@ -16,15 +16,5 @@
       <description>This course on Coursera was my first introduction to Machine Learning way back in 2016, Andrew Ng is an inspirational teacher and his now famous course covers the basics of machine learning using Octave or Matlab. I chose to complete the course in Matlab but Andrew really teaches the foundations of machine learning with this course and the tools used are less important than the ideas put forward of which there are many, Andrew strives to give the student an &amp;ldquo;intuition&amp;rdquo; of how the main machine learning algorithms work.</description>
     </item>
     
-    <item>
-      <title>  Machine Learning with Andrew Ng</title>
-      <link>https://timjones1.github.io/projects/rowing-classifier/</link>
-      <pubDate>Thu, 01 Oct 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://timjones1.github.io/projects/rowing-classifier/</guid>
-      <description>i have wnated to delpoy my own deep learning image classification model for some time and the new fasti.ai course gets straight into the nitty gritty in lesson 2 of the deep learning for coders course. You can adapt the code in the fast book notebooks and get a model up and running quickly and easily, in my case that model just wasnt very good initially:
-  rowing images are not well classified on bing, alot of incorrectly classified images and drawings / pictures of empty boats that were bringin down the accuracy scores.</description>
-    </item>
-    
   </channel>
 </rss>

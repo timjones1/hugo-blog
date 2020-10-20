@@ -6,8 +6,20 @@ tags: ["Data Science","R","Coursera","Courses"]
 title: "JHU Data Science Specialization"
 ---
 
-I was keen to continue learning after the Machine Learning course by Andrew Ng and Coursera was working for me on my long commutes to and from work, so I decided to move on to the Data Science specialization from John Hopkins University. I did deliberate for a while about whether to learn R or python at this point but was swayed by some positive feedback on this specialization and R generally from some former students I came into contact with, and the promise of learning the complete data science pipeline including use of Git Hub, data wrangling and visualization as well as the more glamorous machine learning modules. 
+I was keen to continue learning after my introduction to ML with Andrew Ng, I liked the Coursera format and so I decided to move on 
+to the Data Science specialization from John Hopkins University. 
 
+I had deliberated about whether to learn R or python at this point but was 
+swayed by some positive feedback on this specialization and R generally from some friends, and by the prospect of learning 
+about data science pipelines, Git Hub, data wrangling and visualization as well as the more glamorous machine learning modules. 
+
+I really enjoyed this specialization, it was focused on statistics and provided a good refresher to a subject I hadn't studied since university. The assignments kept me 
+motivated and I found myself getting up early in the mornings to get them finished before the deadlines. Assignments were peer graded in many instances and I was impressed by 
+the quality of work from fellow students in my cohort and learned alot from reviewing their submissions. I particularly enjoyed the course on Statistical inference,
+ despite it being the lowest rated course of the specialization. It was presented by Brian Caffo, a statistics professor at John Hopkins University, who couldnt have been any more different 
+ from the ebullient character of Andrew Ng, but his passion for his subject was just as clear.
+ 
+This course provided me with a real appreciation for applied statistics, with the many examples in bio-medical sciences from PM2.5 pollution levels to reproducing  
 
 I took 8 of the 10 courses required for the specialization as below:  
 
@@ -20,7 +32,7 @@ I took 8 of the 10 courses required for the specialization as below:
  * Regression Models.  [certificate](https://coursera.org/share/dcac607eebb34f5fd0c6417bc4e7dcbd)
  * Practical Machine Learning.  [certificate](https://coursera.org/share/73226d773baaa3c2041cef36196d0a7f)
 
-
+I really enjoyed learning R and more about statistics in general, 
 
 course website: https://www.coursera.org/learn/machine-learning
 
