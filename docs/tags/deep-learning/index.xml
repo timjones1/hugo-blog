@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>deep learning on Tim Jones Blog</title>
+    <title>Deep Learning on Tim Jones Blog</title>
     <link>https://timjones1.github.io/tags/deep-learning/</link>
-    <description>Recent content in deep learning on Tim Jones Blog</description>
+    <description>Recent content in Deep Learning on Tim Jones Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sat, 10 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://timjones1.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2020 16:32:08 -0400</lastBuildDate><atom:link href="https://timjones1.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning Specialization</title>
+      <link>https://timjones1.github.io/post/dl_coursera_3/</link>
+      <pubDate>Tue, 27 Oct 2020 16:32:08 -0400</pubDate>
+      
+      <guid>https://timjones1.github.io/post/dl_coursera_3/</guid>
+      <description>As soon as I heard news of the release of the new Deep Learning Specialization on Coursera by Andrew Ng in August 2017, I was sold on it. Having spent months diligently coding in R and studying the rigours of statistical learning, I was ready for a switch to python and some cutting edge deep learning, especially after the somewhat underwhelming experience of using neural networks in R with the claret package.</description>
+    </item>
+    
     <item>
       <title>  Rowing Classifier with fast.ai</title>
       <link>https://timjones1.github.io/post/rowing-classifier/</link>
