@@ -1,0 +1,10 @@
+---
+date: 2020-22-08T16:32:08-04:00
+description: " "
+featured_image: "/images/coursera_jhu_ds.png"
+tags: ["Data Science","R","Coursera","Courses"]
+title: "Why we need a loss function and a metric?"
+draft: "True"
+---
+
+The cores pieces of a machine learning algorithym are the weights, 
