@@ -1,0 +1,21 @@
+
+Synthetic Data
+ - Paucity of good quality instruction data
+    - Open AI game changing instruction data
+    - Expensive/time consuming to replicarte 
+ - Self Instruct 
+ - Alpaca
+
+
+Wizard Lm - Math - Coder
+ - Simplistic generated data
+ - Evolution
+ - Evol Instruct 
+ - Preference (RLEIF) 
+
+DEITA
+ - revision of Evol Instruct 
+ - Evol Quality , ranking
+ - Argilla implementation
+
+
