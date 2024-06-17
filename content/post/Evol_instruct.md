@@ -2,7 +2,7 @@
 date: 2024-06-16T16:32:08-04:00
 description: " "
 featured_image: ""
-tags: ["]
+tags: [""]
 title: "Synthetic Data Generation with Evol Instruct"
 
 ---
